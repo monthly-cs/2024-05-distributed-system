@@ -15,7 +15,7 @@
 | [조현일/lookhkh](https://github.com/lookhkh) | lookhkh37@gmail.com | 
 | [이정민/pragmatizer](https://github.com/pragmatizer) | jmlee90@gmail.com | 
 | [소재훈/jay-so](https://github.com/so) | merry9504@naver.com | 
-| [임정한/junghanlim](https://github.com/junghanlim) | jhlim271@naver.com | 
+| [임정한/junghanlim](https://github.com/lim-it-err) | jhlim271@naver.com | 
 | [김정규/lenkim](https://github.com/lenkim) | joenggyu0@gmail.com | 
 
 ## 2. Group Rules
