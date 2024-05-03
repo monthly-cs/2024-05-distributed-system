@@ -1,7 +1,7 @@
 {
-  "name": "2024-05-effective-typescript",
+  "name": "2024-05-distributed-system",
   "version": "1.0.0",
-  "description": "monthly-cs/2024-05/effective typescript",
+  "description": "monthly-cs/2024-05/distributed system",
   "main": "index.js",
   "directories": {
     "lib": "lib",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/monthly-cs/2024-05-effective-typescript"
+    "url": "https://github.com/monthly-cs/2024-05-distributed-system"
   },
   "author": "dusunax",
   "license": "ISC"
